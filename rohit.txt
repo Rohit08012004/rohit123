@@ -1,4 +1,3 @@
 hello
 hi rohit
 full name rohit thakre
-father name suendra 
